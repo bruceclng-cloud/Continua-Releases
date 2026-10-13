@@ -4,7 +4,7 @@ Codex hit its usage limit while you were away?
 
 I’m building Continua to preserve an interrupted Codex task, wait for usage to return, and continue that same task in its original environment. It does **not** bypass or extend usage limits.
 
-The first free beta is being prepared. No purchase, licence key or donation will be required. This repository is for binary downloads and feedback; the application source remains private.
+[Download the first free beta](https://github.com/bruceclng-cloud/Continua-Releases/releases/tag/v0.1.0-beta.1). No purchase, licence key, activation or donation is required. This repository is for binary downloads and feedback; the application source remains private.
 
 - [Website](https://continua-nu.vercel.app)
 - [Releases](https://github.com/bruceclng-cloud/Continua-Releases/releases)
@@ -24,7 +24,7 @@ This is experimental software, not a fully accepted stable release. Genuine unat
 
 The beta targets Codex Desktop. Interactive CLI acceptance is pending. Compatibility depends on the exact host and task environment; Continua waits or asks for attention when it cannot verify them. No automatic update system is enabled.
 
-The download will be unsigned and not Apple-notarized. Read the installation guide before downloading. Only use macOS’s per-app Open Anyway step if you trust the download; do not disable Gatekeeper globally. Closing the lid or forcing sleep can interrupt execution. Monitoring alone does not keep a Mac awake.
+The download is unsigned and not Apple-notarized. Read the installation guide before downloading. Only use macOS’s per-app Open Anyway step if you trust the download; do not disable Gatekeeper globally. Closing the lid or forcing sleep can interrupt execution. Monitoring alone does not keep a Mac awake.
 
 ## Optional support
 
