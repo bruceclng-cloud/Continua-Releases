@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Feedback, questions and feature ideas
+    url: https://github.com/bruceclng-cloud/Continua-Releases/discussions
+    about: Share honest feedback without donating.
+  - name: Private support
+    url: mailto:getcontinua@gmail.com
+    about: Use email for something you cannot safely share publicly.
