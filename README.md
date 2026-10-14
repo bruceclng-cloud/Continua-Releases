@@ -12,6 +12,16 @@ I’m building Continua to preserve an interrupted Codex task, wait for usage to
 - [Report a bug](https://github.com/bruceclng-cloud/Continua-Releases/issues/new/choose)
 - [Illustrated installation guide](https://continua-nu.vercel.app/install)
 
+## Inside the Mac app
+
+![Continua native macOS window showing Ready and listening for a supported Codex interruption](images/continua-ready-development.png)
+
+Real local development build, 14 October 2026. The latest recovery fixes in this build are **not yet in the public beta download**. This screenshot shows the interface, not proof of a completed unattended recovery test.
+
+![Public beta settings confirming no licence key, activation or payment is required and linking to feedback and bug reports](images/continua-free-beta.png)
+
+Public beta settings, 13 October 2026. If you try it, start with an unimportant task and tell me where the workflow feels unclear or stops unexpectedly.
+
 ## Tell me what you think
 
 Does this solve a real problem for you? What interrupted your task? What should work differently? Honest criticism is welcome. You don’t need to donate or leave a positive review. A GitHub account is needed to post; you can also email getcontinua@gmail.com.
