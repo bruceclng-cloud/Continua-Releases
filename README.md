@@ -22,6 +22,10 @@ Real local development build, 14 October 2026. The latest recovery fixes in this
 
 Public beta settings, 13 October 2026. If you try it, start with an unimportant task and tell me where the workflow feels unclear or stops unexpectedly.
 
+## Help test the beta
+
+I’m looking for five Mac users who hit Codex usage limits. Start with an installation and first-open check, then tell me what happened. A genuine recovery test is separate and can take longer. [See the tester steps and email me](https://continua-nu.vercel.app/download/#beta-test). No extra account, promotion, donation or positive review is required.
+
 ## Tell me what you think
 
 Does this solve a real problem for you? What interrupted your task? What should work differently? Honest criticism is welcome. You don’t need to donate or leave a positive review. A GitHub account is needed to post; you can also email getcontinua@gmail.com.
